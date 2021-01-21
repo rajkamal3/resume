@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { FaAngleDoubleRight } from 'react-icons/fa';
-import { experience } from './../data';
+import { experience } from '../../data';
 import './experience.css';
 
 function Experience() {
